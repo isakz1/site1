@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>  
+    <img src="20240313_132119_0000.png.pdf" alt="logotipo">
+    <ul>
+        <li> Brincos </li>
+        <li>Braceletes e pulseiras</li>
+        <li>Anéis</li>
+        <li>Colares</li>
+        <Li>Berloques e pingentes</Li>
+    </ul></header>
+</body>
+</html>
